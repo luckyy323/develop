@@ -1,1 +1,3 @@
 Git commands can learn by anyone
+
+add: Register a change in an index
